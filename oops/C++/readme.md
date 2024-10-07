@@ -1,0 +1,3 @@
+- A style of writing code.
+- properties/attributes
+- functions / member functions / methods

@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "*.jsx": "javascriptreact",
+        "cstdlib": "cpp",
+        "vector": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp",
+        "deque": "cpp",
+        "xtree": "cpp",
+        "map": "cpp",
+        "cstdint": "cpp",
+        "ios": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "algorithm": "cpp",
+        "list": "cpp",
+        "xhash": "cpp"
+    }
+}
