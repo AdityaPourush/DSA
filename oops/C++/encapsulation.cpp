@@ -76,6 +76,7 @@ int main(){
     cout << c2.getName() << endl;
     cout << *c2.mileage << endl;
     *c2.mileage = 10;
+    cout << *c2.mileage << endl;
     cout << *c1.mileage << endl;
     return 0;
 }
