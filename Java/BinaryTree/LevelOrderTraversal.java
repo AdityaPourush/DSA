@@ -53,7 +53,7 @@ public class LevelOrderTraversal {
             if(root == null){
                 return;
             }
-            // putting root into both queue and matrix
+            // putting root into both queue and array
             q.offer(root);
             ans.add(root.data);
 
